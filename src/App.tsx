@@ -12,7 +12,7 @@ const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>(() => ({
     score: 0,
     round: 1,
-    maxRounds: 5,
+    maxRounds: 10,
     currentLocation: shuffleArray(LOCATIONS)[0],
     guessedLocation: null,
     showResults: false,
