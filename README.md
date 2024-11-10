@@ -1,8 +1,8 @@
 # PlaceTrace 🌍
 
 PlaceTrace is an immersive geo-guessing game inspired by GeoGuessr, built with React, TypeScript, and MapillaryJS. Players are dropped into random street-view locations worldwide and must guess their position on a map, earning points based on the accuracy of their guesses.
+live here: https://placetrace.netlify.app/
 
-![PlaceTrace Game](https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=600&fit=crop&q=80)
 
 ## 🎮 Features
 
@@ -26,7 +26,7 @@ PlaceTrace is an immersive geo-guessing game inspired by GeoGuessr, built with R
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/placetrace.git
+git clone https://github.com/yaxh8074/placetrace.git
 cd placetrace
 ```
 
@@ -143,16 +143,10 @@ The game is fully responsive and works on:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
 - Mapillary for their excellent street view API
 - Leaflet for the mapping functionality
 - The React community for amazing tools and support
-
----
-
-Made with ❤️ by [Your Name]
